@@ -7,3 +7,4 @@ opencv-python-headless
 numpy
 edge-tts
 langdetect
+gtts
