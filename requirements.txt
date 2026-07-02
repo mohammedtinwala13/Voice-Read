@@ -1,8 +1,9 @@
-streamlit==1.31.1
-Pillow==10.1.0
-easyocr==1.7.1
-gTTS==2.4.0
-numpy==1.24.3
-torch==2.0.1
-torchvision==0.15.2
-opencv-python-headless==4.8.1.78
+streamlit
+easyocr
+torch
+torchvision
+Pillow
+opencv-python-headless
+numpy
+edge-tts
+langdetect
